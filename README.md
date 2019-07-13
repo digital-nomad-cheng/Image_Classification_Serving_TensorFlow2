@@ -1,5 +1,7 @@
-!! Some bug in TensorFlow2 and this demo just doesn't run.  !!
-Refer to this repo:  which I change to tensorflow 1.12
+**!! Some bug in TensorFlow2 and this demo just doesn't run.  !!**
+Refer to this repo: https://github.com/ItchyHiker/Image-Classification-and-Serving-TensorFlow
+which I change to tensorflow 1.12
+
 # Image-Classification-and-Serving-TensorFlow2
 This repo will show you the procedure of solving an image classification problem with tensorflow2.0 and serving the trained model.
 
